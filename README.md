@@ -10,3 +10,6 @@ Projeto desenvolvido durante o evento Jornada do Zero à primeira vaga da Rocket
 - HTML
 - CSS
 - Git e GitHub
+
+## Projeto
+https://github.com/gnovaess/horror-game.git
