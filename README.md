@@ -6,7 +6,7 @@
 Projeto desenvolvido durante o evento Jornada do Zero à primeira vaga da Rocketseat, onde construimos uma landingpage de um jogo de terror.
 
   
-## Tecnologias
+## Tecnologias 🚀
 - HTML
 - CSS
 - Git e GitHub
