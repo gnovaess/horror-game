@@ -1,1 +1,9 @@
 <h1 align="center"> LandingPage - EndLess Nightmare </h1>
+<p align="center"
+<a href="https://ibb.co/Gs8DFJ9"><img src="https://i.ibb.co/7gZDbzQ/hg.jpg" alt="hg" border="0"></a>
+</p>
+
+## Tecnologias
+- HTML
+- CSS
+- Git e GitHub
